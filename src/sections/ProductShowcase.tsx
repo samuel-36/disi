@@ -1,7 +1,6 @@
 import Image from "next/image";
-import productImage from '@/assets/dashboard.jpg';
-import pyramidImage from '@/assets/pyramid.png';
-import tubeImage from '@/assets/tube.png';
+import productImage from '@/assets/dash.jpg'
+
 
 
 export const ProductShowcase = () => {

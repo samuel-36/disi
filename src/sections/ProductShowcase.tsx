@@ -1,6 +1,5 @@
 import Image from "next/image";
-import productImage from '@/assets/dash.jpg'
-
+import productImage from '@/assets/dash2.png'
 
 
 export const ProductShowcase = () => {

@@ -17,5 +17,5 @@ const About = () => {
     </div>
   )
 }
-
+//new
 export default About;
